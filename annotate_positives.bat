@@ -1,0 +1,1 @@
+"opencv\build\x64\vc15\bin\opencv_annotation.exe" --annotations=pos.txt --images=positive/
